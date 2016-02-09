@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+
+    <color name="body_text_1">#de000000</color>
+    <color name="body_text_2">#8a000000</color>
+    <color name="body_text_3">#60000000</color>
+    <color name="body_text_white">#FFFFFFFF</color>
+    <color name="body_text_disabled">#44000000</color>
+
+    <color name="body_text_1_inverse">#deffffff</color>
+    <color name="body_text_2_inverse">#8affffff</color>
+
+    <color name="theme_primary">#ffe53935</color>
+    <color name="theme_primary_dark">#ffc62828</color>
+    <color name="theme_primary_light">#ffe57373</color>
+
+    <color name="theme_accent_1">#ff2962ff</color>
+
+    <array name="swipe_progress_colors">
+        <item>#ff2196f3</item>
+        <item>#fff44336</item>
+    </array>
+
+    <color name="window_background">#e9eaed</color>
+    <color name="gray_background">#e4e4e4</color>
+
+    <color name="movie_poster_placeholder">#ffd32f2f</color>
+    <color name="movie_cover_placeholder">#ffd32f2f</color>
+
+    <color name="card_selectable_pressed">@color/theme_primary</color>
+    <color name="card_shape_background">#1e000000</color>
+    <color name="list_dropdown_divider_color">#92a3a3a3</color>
+    <color name="list_dropdown_foreground_normal">#ff333333</color>
+    <color name="trailer_color">#C8C8C8</color>
+
+</resources>
