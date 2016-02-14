@@ -12,7 +12,7 @@ android {
         versionName "1.0"
 
         def STRING = "String"
-        buildConfigField STRING, "MOVIE_DB_API_KEY", "\"af853b163bc4bfebcdaae0258d9523e2\""
+        buildConfigField STRING, "MOVIE_DB_API_KEY", "\"your api key\""
     }
     buildTypes {
         release {
